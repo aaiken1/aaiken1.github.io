@@ -1,5 +1,5 @@
 
-reporting_biases:
+biases:
     title: "Out of the Dark: Hedge fund Reporting Biases and Commercial Databases"
     authors:
       - me
@@ -14,3 +14,117 @@ reporting_biases:
     volume: 26
     issue: 1
     pages: 208-243
+    
+fofs:
+    title: "The Value of Funds of Hedge Funds: Evidence From Their Holdings"
+    authors:
+      - me
+      - Clifford, C.
+      - Ellis, J.
+    year: 2015
+    preprint:
+    published_url: https://doi.org/10.1287/mnsc.2014.2032
+    github:
+    osf:
+    outlet: Management Science
+    volume: 61
+    issue: 10
+    pages: 2281-2547
+    
+    
+dlrs:
+    title: "Hedge funds and Discretionary Liquidity Restrictions"
+    authors:
+      - me
+      - Clifford, C.
+      - Ellis, J.
+    year: 2015
+    preprint:
+    published_url: https://doi.org/10.1016/j.jfineco.2015.01.002
+    github:
+    osf:
+    outlet: Journal of Financial Economics
+    volume: 116
+    issue: 1
+    pages: 197-218
+    
+        
+emerging:
+    title: "Can Hedge Funds Time Global Equity Markets? Evidence from Emerging Markets"
+    authors:
+      - me
+      - Kilic, O.
+      - Reid, S.
+    year: 2016
+    preprint:
+    published_url: https://doi.org/10.1016/j.rfe.2015.05.002
+    github:
+    osf:
+    outlet: Review of Financial Economics
+    volume: 29
+    issue: 
+    pages: 2-11
+    
+ideology:
+    title: "Do Politicians “Put Their Money Where Their Mouth Is?” Ideology and Portfolio Choice"
+    authors:
+      - me
+      - Ellis, J.
+      - Kang, M.
+    year: 2020
+    preprint:
+    published_url: https://doi.org/10.1287/mnsc.2018.3175
+    github:
+    osf:
+    outlet: Management Science
+    volume: 66
+    issue: 1
+    pages: 376-396
+    
+communication:
+    title: "Let's Talk Sooner Rather Than Later: The Strategic Communication Decisions of Activist Blockholders"
+    authors:
+      - me
+      - Lee, Choonsik
+    year: 2020
+    preprint:
+    published_url: https://doi.org/10.1016/j.jcorpfin.2020.101593
+    github:
+    osf:
+    outlet: Journal of Corporate Finance
+    volume: 62
+    issue: 
+    pages: 
+    
+dynamic:
+    title: "Funding Liquidity Risk and the Dynamics of Hedge Fund Lockups"
+    authors:
+      - me
+      - Clifford, C.
+      - Ellis, J.
+      - Huang, Q.
+    year: 2021
+    preprint:
+    published_url: https://doi.org/10.1017/S0022109020000393
+    github:
+    osf:
+    outlet: Journal of Financial and Quantitative Analysis
+    volume: 56
+    issue: 4
+    pages: 1321-1349
+    
+side:
+    title: "Side-by-Side Management of Mutual Funds and Actively Managed Exchange Traded Funds"
+    authors:
+      - me
+      - Sherrill, E.
+      - Upton, K.
+    year: 2022
+    preprint:
+    published_url: https://doi.org/10.1111/fire.12299
+    github:
+    osf:
+    outlet: The Financial Review
+    volume: 57
+    issue: 3
+    pages: 533-557
