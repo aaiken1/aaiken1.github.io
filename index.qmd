@@ -2,7 +2,7 @@
 title: "adam aiken"
 image: img/profile.jpg
 about: 
-  template: trestles
+  template: solana
   image-shape: rounded
   image-width: 16em
   links:
@@ -19,3 +19,32 @@ about:
       text: Email
       href: mailto:aaiken2@elon.edu
 ---
+
+I am the Wesley R. Elingburg Professor in Business and Associate Professor of Finance at Elon University in Elon, NC.
+
+My co-authors and I have published in the Journal of Financial Economics, the Review of Financial Studies, the Journal of Financial and Quantitative Analysis, Management Science, and the Journal of Corporate Finance. 
+
+My [SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=665822) has the latest versions of our papers.
+
+**Research Interests** 
+
+Asset Management, Financial Institutions, Hedge Funds, Corporate Governance, Shareholder Activism
+
+**Courses Taught** 
+
+I am teaching [Data Analysis in Finance using Python](https://aaiken1.github.io/fin-data-analysis-text/intro.html) and Advanced Managerial Finance in the Spring 2023 semester. During the Fall 2022 semester, I developed a new Trading and Markets elective that uses the [trading simulation software](https://inside.rotman.utoronto.ca/financelab/rit/) developed at the Rotman School at Toronto University. 
+
+I have also taught our student managed portfolio course, investments, advanced investments, portfolio management, a CFA review, principles of finance, and financial modeling. I have experience teaching both R and Python. 
+
+I have taught versions of the above courses at both the undergraduate and MBA levels. 
+
+**Education**
+
+Ph.D. in Finance from Arizona State University (2010)
+
+Masters in Economics from Duke University (2005)
+
+B.S. in Business Administration (Finance) from the University of North Carolina at Chapel Hill (2000)
+
+CFA Charterholder since 2003
+
