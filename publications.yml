@@ -85,7 +85,7 @@ communication:
     title: "Let's Talk Sooner Rather Than Later: The Strategic Communication Decisions of Activist Blockholders"
     authors:
       - me
-      - Lee, Choonsik
+      - Lee, C.
     year: 2020
     preprint:
     published_url: https://doi.org/10.1016/j.jcorpfin.2020.101593
@@ -128,3 +128,33 @@ side:
     volume: 57
     issue: 3
     pages: 533-557
+    
+working_attention:
+    title: "Attention to Detail: Learning About Mergers"
+    authors:
+      - me
+      - Lee, C.
+    year:
+    preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036886
+    published_url:
+    github:
+    osf:
+    outlet:
+    volume:
+    issue:
+    pages:
+    
+working_skill:
+    title: "Hedge Fund Manager Timing and Selectivity Skill Over Time. A Holdings-Based Estimate"
+    authors:
+      - me
+      - Kang, M.
+    year:
+    preprint:
+    published_url:
+    github:
+    osf:
+    outlet:
+    volume:
+    issue:
+    pages:

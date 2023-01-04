@@ -35,7 +35,7 @@ keep-md: true
         <i class="bi bi-file-text" role='img' aria-label='Publication'></i>
         Publication
     </a></li>
-<li class='list-group-item'><strong>Aiken, A.</strong> and Lee, Choonsik (2020). Let's Talk Sooner Rather Than Later: The Strategic Communication Decisions of Activist Blockholders. <em>Journal of Corporate Finance</em>, <em>62</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.jcorpfin.2020.101593" target="_blank" rel="noopener noreferrer">
+<li class='list-group-item'><strong>Aiken, A.</strong> and Lee, C. (2020). Let's Talk Sooner Rather Than Later: The Strategic Communication Decisions of Activist Blockholders. <em>Journal of Corporate Finance</em>, <em>62</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.jcorpfin.2020.101593" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-text" role='img' aria-label='Publication'></i>
         Publication
     </a></li></ul>
@@ -76,5 +76,12 @@ keep-md: true
 
 ## Working Papers
 
+### 2023{#not-published-2023}
 
-
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Aiken, A.</strong> and Lee, C. (2023). Attention to Detail: Learning About Mergers.<br><a class="btn btn-outline-dark btn-sm", href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036886" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Preprint'></i>
+        Preprint
+    </a></li>
+<li class='list-group-item'><strong>Aiken, A.</strong> and Kang, M. (2023). Hedge Fund Manager Timing and Selectivity Skill Over Time. A Holdings-Based Estimate.<br></li></ul>
+```

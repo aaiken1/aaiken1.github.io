@@ -52,7 +52,7 @@ for _, data in yaml_data.items():
     if(isinstance(year_str, str)):
         in_press = "in-press" in year_str
     working_paper = (pub_url is None) and not in_press
-    thesis = pub_url == "https://research-repository.uwa.edu.au/en/publications/mental-models-under-ideological-constraints-the-psychological-sig"
+    thesis = pub_url == ""
     pub_str = f'{author_str} ({year_str}). {title_str}.'
     if outlet is not None:
         pub_str += f" <em>{outlet}</em>"
