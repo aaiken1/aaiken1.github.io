@@ -26,19 +26,36 @@ My co-authors and I have published in the Journal of Financial Economics, the Re
 
 My [SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=665822) has the latest versions of our papers.
 
-**Research Interests** 
+\
+
+<figure>
+<center>
+<img src="img/fin.jpeg" alt="Elon Finance Faculty" title="Elon Finance Faculty" style="width:100%"/>
+<figcaption>Our Elon Finance Faculty</figcaption>
+</center>
+</figure>
+
+\ 
+\ 
+\ 
+
+
+
+
+
+**Research Interests**
 
 Asset Management, Financial Institutions, Hedge Funds, Corporate Governance, Shareholder Activism
 
-**Courses Taught** 
+**Courses Taught**
 
-I am teaching [Data Analysis in Finance using Python](https://aaiken1.github.io/fin-data-analysis-text/intro.html) and Advanced Managerial Finance in the Spring 2023 semester. 
+I am teaching [Data Analysis in Finance using Python](https://aaiken1.github.io/fin-data-analysis-text/intro.html) and Advanced Managerial Finance in the Spring 2023 semester.
 
-During the Fall 2022 semester, I developed a new Trading and Markets elective that uses the [trading simulation software](https://inside.rotman.utoronto.ca/financelab/rit/) developed at the Rotman School at Toronto University. 
+During the Fall 2022 semester, I developed a new Trading and Markets elective that uses the [trading simulation software](https://inside.rotman.utoronto.ca/financelab/rit/) developed at the Rotman School at Toronto University.
 
-I have also taught our student managed portfolio course, investments, advanced investments, portfolio management, a CFA review, principles of finance, and financial modeling. I have experience teaching both R and Python. 
+I have also taught our student managed portfolio course, investments, advanced investments, portfolio management, a CFA review, principles of finance, and financial modeling. I have experience teaching both R and Python.
 
-I have taught versions of the above courses at both the undergraduate and MBA levels. 
+I have taught versions of the above courses at both the undergraduate and MBA levels.
 
 **Education**
 
@@ -49,4 +66,3 @@ Masters in Economics from Duke University (2005)
 B.S. in Business Administration (Finance) from the University of North Carolina at Chapel Hill (2000)
 
 CFA Charterholder since 2003
-
