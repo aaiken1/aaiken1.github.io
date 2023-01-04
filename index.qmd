@@ -1,0 +1,21 @@
+---
+title: "adam aiken"
+image: img/profile.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/adamaiken/
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/adamlaiken
+    - icon: github 
+      text: GitHub
+      href: https://github.com/aaiken1
+    - icon: envelope 
+      text: Email
+      href: mailto:aaiken2@elon.edu
+---
