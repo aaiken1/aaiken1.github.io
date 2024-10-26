@@ -129,6 +129,21 @@ side:
     issue: 3
     pages: 533-557
     
+hf_skill:
+    title: "Hedge Fund Manager Timing and Selectivity Skill Over Time. A Holdings-Based Estimate"
+    authors:
+      - me
+      - Kang, M.
+    year: 2023
+    preprint:
+    published_url:https://www.sciencedirect.com/science/article/abs/pii/S1544612323008115
+    github:
+    osf:
+    outlet: Finance Research Letters
+    volume: 58
+    issue: B
+    pages: 104439
+    
 working_attention:
     title: "Attention to Detail: Learning About Mergers"
     authors:
@@ -144,17 +159,3 @@ working_attention:
     issue:
     pages:
     
-working_skill:
-    title: "Hedge Fund Manager Timing and Selectivity Skill Over Time. A Holdings-Based Estimate"
-    authors:
-      - me
-      - Kang, M.
-    year:
-    preprint:
-    published_url:
-    github:
-    osf:
-    outlet:
-    volume:
-    issue:
-    pages:
