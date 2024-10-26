@@ -29,19 +29,18 @@ My [SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=665822) 
 \
 
 <figure>
+
 <center>
-<img src="img/fin.jpeg" alt="Elon Finance Faculty" title="Elon Finance Faculty" style="width:100%"/>
+
+<img src="img/fin.jpeg" title="Elon Finance Faculty" alt="Elon Finance Faculty" style="width:100%"/>
+
 <figcaption>Our Elon Finance Faculty</figcaption>
+
 </center>
+
 </figure>
 
-\ 
-\ 
-\ 
-
-
-
-
+     
 
 **Research Interests**
 
@@ -49,11 +48,13 @@ Asset Management, Financial Institutions, Hedge Funds, Corporate Governance, Sha
 
 **Courses Taught**
 
-I am teaching [Data Analysis in Finance using Python](https://aaiken1.github.io/fin-data-analysis-text/intro.html) and Advanced Managerial Finance in the Spring 2023 semester.
+I am teaching [Data Analysis in Finance using Python](https://aaiken1.github.io/fin-data-analysis-text/intro.html) and Advanced Managerial Finance in the Spring 2024 semester.
 
-During the Fall 2022 semester, I developed a new Trading and Markets elective that uses the [trading simulation software](https://inside.rotman.utoronto.ca/financelab/rit/) developed at the Rotman School at Toronto University.
+During the Fall 2024 semester, I am teaching our Trading and Markets elective that uses the [trading simulation software](https://inside.rotman.utoronto.ca/financelab/rit/) developed at the Rotman School at Toronto University.
 
-I have also taught our student managed portfolio course, investments, advanced investments, portfolio management, a CFA review, principles of finance, and financial modeling. I have experience teaching both R and Python.
+I also regularly teach our advanced corporate finance course.
+
+I have taught our student managed portfolio course, investments, advanced investments, portfolio management, a CFA review, principles of finance, and financial modeling. I have experience teaching both R and Python.
 
 I have taught versions of the above courses at both the undergraduate and MBA levels.
 
